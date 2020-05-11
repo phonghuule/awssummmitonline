@@ -30,7 +30,7 @@ Duration: Approximately 60 minutes
 
 In this lab, you will learn the basics of how to use Amazon Neptune in order to create a recommendation system using collaborative filtering.
 
-Duration: 60 minutes
+Duration: Approximately 60 minutes
 
 [View lab instructions](bit.ly/2yBHucR)
 
@@ -38,7 +38,7 @@ Duration: 60 minutes
 
 In this lab, we will demonstrate how to add the AI and ML cloud service feature to your web application with React and the Amplify Framework.
 
-Duration: 30 minutes
+Duration: Approximately 30 minutes
 
 [View lab instructions](bit.ly/35NX9Sb)
 
@@ -46,7 +46,7 @@ Duration: 30 minutes
 
 In this lab, we will learn how we can use lambda@edge functions to serve different variants of the same static resources from a CloudFront distribution.
 
-Duration: 60 minutes
+Duration: Approximately 60 minutes
 
 [View lab instructions](bit.ly/2YQuyu9)
 
@@ -54,7 +54,7 @@ Duration: 60 minutes
 
 This lab describes using machine learning (ML) for the automated identification of unhappy customers, also known as customer churn prediction
 
-Duration: 60 - 90 minutes
+Duration: Approximately 60 - 90 minutes
 
 [View lab instructions](bit.ly/35OfP4e)
 
@@ -62,7 +62,7 @@ Duration: 60 - 90 minutes
 
 In this lab, you will learn how to build the Vote Rocket voting web application with React and the Amplify Framework
 s
-Duration: 45 - 60 minutes
+Duration: Approximately 45 - 60 minutes
 
 [View lab instructions](bit.ly/3dycWqX)
 
@@ -71,7 +71,7 @@ Duration: 45 - 60 minutes
 
 This lab walks you through creating a CDK project in Python that will implement an ECS Service running [Locust.io](https://locust.io/).
 
-Duration: 45 - 60 minutes
+Duration: Approximately 45 - 60 minutes
 
 [View lab instructions](bit.ly/3bm9RbW)
 
@@ -80,7 +80,7 @@ Duration: 45 - 60 minutes
 
 The lab walks through the steps of setting up ALB Ingress controller, deploying sample application (game 2048) and exposing the application publicly via ALB.
 
-Duration: 60 minutes
+Duration: Approximately 60 minutes
 
 [View lab instructions](bit.ly/3fEWy9W)
 
@@ -88,7 +88,7 @@ Duration: 60 minutes
 
 This lab will walk you through on how to train and create batch recommendations using Amazon Personalize. 
 
-Duration: 60 - 90 minutes
+Duration: Approximately 60 - 90 minutes
 
 [View lab instructions](bit.ly/3dzvqaJ)
 
@@ -96,7 +96,7 @@ Duration: 60 - 90 minutes
 
 In this lab, we demonstrate how to run Elastic Kubernetes Service on Fargate
 
-Duration: 60 minutes
+Duration: Approximately 60 minutes
 
 [View lab instructions](https://github.com/kmhabib/fargatedevlab/blob/master/FargateDevLab.md)
 
@@ -104,7 +104,7 @@ Duration: 60 minutes
 
 In this lab, you will be building a website with a simple Login button. The goal is to have a public website available to everyone, and another page only visible for authenticated users.
 
-Duration: 45 minutes
+Duration: Approximately 45 minutes
 
 [View lab instructions](bit.ly/3fEdpty)
 
@@ -112,7 +112,7 @@ Duration: 45 minutes
 
 In this lab you will learn the basics of how to use Amazon Personalize in order to create a recommendation system. Be aware that the data upload and training steps do take a long period to perform.
 
-Duration: 60 - 90 minutes
+Duration: Approximately 60 - 90 minutes
 
 [View lab instructions](bit.ly/2LjLTDY)
 
@@ -120,6 +120,6 @@ Duration: 60 - 90 minutes
 
 This lab is intended to showcase the Health API Organization View feature. Organization View is intended to aggregate Personal Health Dashboard/Health events at the PAYER account level within an organization.
 
-Duration: 45 - 60 minutes
+Duration: Approximately 45 - 60 minutes
 
 [View lab instructions](hbit.ly/2WKFW8k)
