@@ -6,7 +6,7 @@ The following labs will give you hands-on experience with a number of the topics
 
 ℹ️ **You will run these lab in your own AWS account. Please follow directions at the end of the labs to remove resources to minimize costs.**
 
-These labs will remain available after AWS Summit Online. **You can do them at any time**, even after AWS Summit Online.
+These labs will remain available after AWS Summit Online 2021 **You can do them at any time**, even after AWS Summit Online.
 
 ## [Amazon ECS Containerized Web App](https://github.com/bikrambora/docker-ecs-lab)
 
